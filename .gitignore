@@ -1,0 +1,7 @@
+config.toml
+.DS_Store
+.archive/
+__pycache__/
+docs/
+filings/
+fomc/
