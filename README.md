@@ -1,5 +1,5 @@
 # FedGPT
-A streamlit app that analyzes FOMC statements using OpenAI, LangChain, Pinecone, and [Kor](https://eyurtsev.github.io/kor/).
+A streamlit app that analyzes [FOMC statements](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) using OpenAI, LangChain, Pinecone, and [Kor](https://eyurtsev.github.io/kor/).
 
 ## Demo
 <p align="center">
