@@ -3,7 +3,7 @@ A streamlit app that analyzes FOMC statements using OpenAI, LangChain, Pinecone,
 
 ## Demo
 <p align="center">
-  <img src="demo.gif" width="500" />
+  <img src="demo.gif" width="800" />
 </p>
 
 ## How to use
